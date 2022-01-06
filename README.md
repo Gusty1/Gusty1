@@ -9,7 +9,6 @@
 
 - 📄 My website [https://gusty1.github.io/GustyLittleWorld/](https://gusty1.github.io/GustyLittleWorld/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
