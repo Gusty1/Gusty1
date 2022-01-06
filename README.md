@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gusty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A junior engineer</h3>
+
+- 🔭 I’m currently working on **resident engineer**
+
+- 🌱 I’m currently learning **React、Android、Spring...**
+
+- 📄 My website [https://gusty1.github.io/GustyLittleWorld/](https://gusty1.github.io/GustyLittleWorld/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
