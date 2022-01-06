@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gusty</h1>
 <h3 align="center">A junior engineer</h3>
 
-- 🔭 I’m currently working on **resident engineer**
+- 🔭Job position **resident engineer**
 
 - 🌱 I’m currently learning **React、Android、Spring...**
 
+- 📫 How to reach me **a0985209465@gmail.com**
+
 - 📄 My website [https://gusty1.github.io/GustyLittleWorld/](https://gusty1.github.io/GustyLittleWorld/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
