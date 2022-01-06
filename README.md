@@ -11,7 +11,7 @@
 
 - 📄 My website [https://gusty1.github.io/GustyLittleWorld/](https://gusty1.github.io/GustyLittleWorld/)
 
-<p align="center">
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
