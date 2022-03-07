@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gusty</h1>
 <h3 align="center">A junior engineer</h3>
 
-- 🔭Job position **resident engineer**
+- 🔭Job position **junior engineer**
 
 - 🌱 I’m currently learning **React、Android、Spring...**
 
