@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gusty，Take off toward a dream!</h2>
+<h2 align="left">Hi 👋! My name is Gusty，Trying to do better.</h2>
 
 ###
 
