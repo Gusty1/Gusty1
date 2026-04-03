@@ -1,9 +1,10 @@
 # Hi 👋! My name is Gray，Take off toward a dream!
 
 我是一名開發者，喜歡打造實用且高效的應用程式，並專注於撰寫乾淨、易維護的程式碼。歡迎交流或合作！
+I am a developer who enjoys building practical and efficient applications, with a strong focus on writing clean and maintainable code. Feel free to connect or collaborate!
 
-- 前端：React / React Native / Flutter
-- 後端：.NET / Spring
+- Frontend：React / React Native / Flutter
+- Backend：.NET / Spring
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
